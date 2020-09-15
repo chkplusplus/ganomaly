@@ -1,5 +1,5 @@
 """
-just try
+just try chk
 TRAIN GANOMALY
 
 . Example: Run the following command from the terminal.
